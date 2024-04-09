@@ -1,6 +1,6 @@
 import React from "react";
 import {Sidebar} from "@/components/sidebar";
-import {MobileHeader} from "@/components/MobileHeader";
+import {MobileHeader} from "@/components/mobileHeader";
 
 type Props = {
   children: React.ReactNode
